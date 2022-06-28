@@ -1,8 +1,8 @@
 # SOBRE MIM
 
 - 👋 Olá,eu sou _Eric de Castro_
--
-- 👀 estou interessado em descobrir coisas
+- 👀 Estou interessado em descobrir coisas
+- 😝 Sou estudante de ensino médio e estou estudanto programação. 
 
 [Pensamento Computacional](https://blog.academia.com.br/pensamento-computacional/)
 
