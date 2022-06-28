@@ -1,6 +1,6 @@
 # SOBRE MIM
 
-- 👋 Olá,eu sou Eric de Castro
+- 👋 Olá,eu sou _Eric de Castro_
 -
 - 👀 estou interessado em descobrir coisas
 
